@@ -1,9 +1,5 @@
 # Handwritten-Digit-Recognition-using-Deep-Learning-MNISTDataset
 
-# 📄 CASE STUDY: Handwritten Digit Recognition using Deep Learning (MNIST Dataset)
-
----
-
 ## 1. **Brief Introduction**
 
 In the modern era of digitization, businesses are constantly seeking ways to automate manual processes and enhance operational efficiency. One such area is the **automatic extraction of handwritten information** from documents like receipts, forms, and invoices.
